@@ -146,10 +146,10 @@ Advanced SQL queries were developed to answer real-world business questions and 
 ## Key Findings
 
 - Campaign Type Performance: Different campaign types showed variations in average ROI and Conversion Rate, indicating that some marketing strategies are more effective than others.
-Average ROI by Campaign Type
+*Average ROI by Campaign Type
 <img width="547" height="512" alt="image" src="https://github.com/user-attachments/assets/4b441396-de1e-4532-9b53-a96c7dff728d" />
 
-Conversion Rate Campaign Type
+*Conversion Rate Campaign Type
 <img width="565" height="512" alt="image" src="https://github.com/user-attachments/assets/93ee1766-7591-4ac8-9a3b-d0a1efb68fe3" />
 
 
@@ -182,21 +182,6 @@ Conversion Rate Campaign Type
 
 - Anomaly Detection: Isolation Forest successfully identified campaigns with unusual Cost Per Click (CPC) values, which can help detect inefficient campaigns or potential data anomalies for further investigation.
 <img width="695" height="545" alt="image" src="https://github.com/user-attachments/assets/6e1f8bf7-e4f2-4e74-ab58-2a87d424e1fe" />
-
-
-
-## Key Findings
-
-* Campaign performance varied significantly across campaign types and marketing channels.
-* Campaigns with lower acquisition costs generally achieved higher ROI.
-* Customer engagement positively influenced conversion rates.
-* Marketing effectiveness differed across customer segments, age groups, and geographic locations.
-* Seasonal trends impacted campaign performance.
-* Machine learning successfully predicted campaign ROI using historical marketing data.
-* PCA reduced feature dimensionality while preserving important information.
-* K-Means clustering identified groups of campaigns with similar performance characteristics.
-* Isolation Forest detected anomalous campaigns based on Cost Per Click (CPC) and campaign behavior.
-* SQL analysis enabled efficient reporting and KPI tracking through reusable database objects.
 
 
 ## Skills Demonstrated
