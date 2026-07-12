@@ -146,10 +146,13 @@ Advanced SQL queries were developed to answer real-world business questions and 
 ## Key Findings
 
 - Campaign Type Performance: Different campaign types showed variations in average ROI and Conversion Rate, indicating that some marketing strategies are more effective than others.
+
 *Average ROI by Campaign Type
 <img width="547" height="512" alt="image" src="https://github.com/user-attachments/assets/4b441396-de1e-4532-9b53-a96c7dff728d" />
 
+
 *Conversion Rate Campaign Type
+
 <img width="565" height="512" alt="image" src="https://github.com/user-attachments/assets/93ee1766-7591-4ac8-9a3b-d0a1efb68fe3" />
 
 
