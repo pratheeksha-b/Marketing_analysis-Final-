@@ -1,5 +1,5 @@
 # Marketing_analysis-Final-
-# Marketing Campaign Performance Analysis using Python & SQL
+# Marketing Campaign Performance Analysis using Python, SQL & Power BI
 
 ## Project Overview
 
